@@ -1,3 +1,6 @@
+*.a
+*.o
+*.so
 *.DS_Store
 *.Makefile
 *.host.mk
@@ -36,4 +39,4 @@
 .project
 .pydevproject
 .settings
-.sw?
+.sw? 
